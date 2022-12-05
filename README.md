@@ -11,4 +11,5 @@ so that our own site is optimized for search engines.
 
 - Application's CSS file is properly commented.
 ```
+
 ![Image of Project](./Develop/assets/images/projectone.png)
