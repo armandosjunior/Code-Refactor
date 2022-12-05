@@ -12,4 +12,6 @@ so that our own site is optimized for search engines.
 - Application's CSS file is properly commented.
 ```
 
+Deployed Site: [Code Refactor](https://pages.github.com/).
+
 ![Image of Project](./Develop/assets/images/projectone.png)
