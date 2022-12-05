@@ -12,6 +12,6 @@ so that our own site is optimized for search engines.
 - Application's CSS file is properly commented.
 ```
 
-Deployed Site: [Code Refactor](https://armandosjunior.github.io/HTML-CSS-Refactor/)
+**Deployed Site: [Code Refactor](https://armandosjunior.github.io/HTML-CSS-Refactor/)**
 
 ![Image of Project](./assets/images/projectone.png)
