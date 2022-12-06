@@ -3,7 +3,8 @@
 Marketing agency needs codebase that follows accessibility standards
 so that our own site is optimized for search engines.
 
-### **Technical Criterias met:**
+
+## **Technical Criterias met:**
 ```
 - Application's links all function correctly.
 
@@ -15,3 +16,4 @@ so that our own site is optimized for search engines.
 **Deployed Site: [Code Refactor](https://armandosjunior.github.io/HTML-CSS-Refactor/)**
 
 ![Image of Project](./assets/images/projectone.png)
+---
