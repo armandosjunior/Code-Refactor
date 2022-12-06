@@ -1,4 +1,4 @@
-# Code Refactor Starter Code! :speech_balloon:
+# Code Refactor! :speech_balloon:
 
 Marketing agency needs codebase that follows accessibility standards
 so that our own site is optimized for search engines.
